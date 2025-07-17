@@ -1,5 +1,4 @@
-                                                                                            ** To-Do List Application** 
-
+To-Do List Application
 
 This is a simple console-based To-Do List Application written in Python. The application allows users to manage daily tasks efficiently by providing options to list, add, edit, and delete tasks. All tasks are stored persistently in a local tasks.txt file.
 
